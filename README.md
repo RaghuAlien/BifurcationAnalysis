@@ -1,2 +1,2 @@
 # BifurcationAnalysis
-Bifurcation Analysis using Auto07p
+Bifurcation Analysis of Aircraft Dynamics using Auto07p
